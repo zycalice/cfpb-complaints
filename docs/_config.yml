@@ -1,8 +1,1 @@
 theme: jekyll-theme-minimal
-
-# Configure the Markdown renderer.
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
